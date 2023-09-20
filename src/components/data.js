@@ -7,7 +7,7 @@ export const data=[
         id:1,
         name:"Using React JS",
         image:portfolio,
-        github:""
+        github:"https://github.com/PabbaBhavana/myportfolio"
     },
     {
         id:'2',
